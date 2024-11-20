@@ -138,40 +138,144 @@ Alternative rules may be found at [0.4.31.4](/DCRMR/general-rules/Transcription/
 
 ## i.01.6 Acronyms
 
-|Abbreviation|Used for|
-|---|---|
-|3R Project	|RDA Toolkit Restructure and Redesign Project|
-|AACR2 	|*Anglo-American Cataloguing Rules*, second edition|
-|BDRB	|[Bibliographic Description of Rare Books](https://catalog.hathitrust.org/Record/007413360){:target="_blank"}|
-|BIBCO	|[Monographic Bibliographic Record Cooperative Program of the PCC](https://www.loc.gov/aba/pcc/bibco/index.html){:target="_blank"}|
-|BIBFRAME|[Bibliographic Framework Initiative](https://www.loc.gov/bibframe/){:target="_blank"}|
-|BSC	|[Bibliographic Standards Committee, Rare Books and Manuscripts Section, Association of College and Research Libraries, American Library Association](http://rbms.info/committees/bibliographic_standards/){:target="_blank"}|
-|BSR	|[BIBCO Standard Record Metadata Application Profiles](https://www.loc.gov/aba/pcc/bibco/bsr-maps.html){:target="_blank"}|
-|CC:DA	|[Committee on Cataloging: Description and Access, Core: Leadership, Infrastructure, Futures, American Library Association](https://alcts.ala.org/ccdablog/){:target="_blank"}|
-|CONSER	|[Cooperative Online Serials Program of the PCC](https://www.loc.gov/aba/pcc/conser/){:target="_blank"}|
-|CSR    |[CONSER Standard Record Metadata Application Profiles](https://www.loc.gov/aba/pcc/conser/issues/CSR.html){:target="_blank"}|
-|DCRB	|[Descriptive Cataloging of Rare Books](https://catalog.hathitrust.org/Record/002570058){:target="_blank"}|
-|DCRM	|[Descriptive Cataloging of Rare Materials](http://rbms.info/dcrm/){:target="_blank"}|
-|DCRM(B)|[Descriptive Cataloging of Rare Materials (Books)](http://rbms.info/dcrm/dcrmb/){:target="_blank"}|
-|DCRM(C) |[Descriptive Cataloging of Rare Materials (Cartographic)](http://rbms.info/dcrm/dcrmc/){:target="_blank"}|
-|DCRM(G)|[Descriptive Cataloging of Rare Materials (Graphics)](http://rbms.info/dcrm/dcrmg/){:target="_blank"}|
-|DCRM(M)|[Descriptive Cataloging of Rare Materials (Music)](http://rbms.info/dcrm/dcrmm/){:target="_blank"}|
-|DCRM(MSS)|[Descriptive Cataloging of Rare Materials (Manuscripts)](http://rbms.info/dcrm/dcrmmss/){:target="_blank"}|
-|DCRMR	|[Descriptive Cataloging of Rare Materials (RDA Edition)](/DCRMR/){:target="_blank"}|
-|DCRM(S)|[Descriptive Cataloging of Rare Materials (Serials)](http://rbms.info/dcrm/dcrms/){:target="_blank"}|
-|IFLA|[International Federation of Library Associations and Institutions](https://www.ifla.org/){:target="_blank"}|
-|ISBD	|[International Standard Bibliographic Description](https://repository.ifla.org/handle/123456789/1939){:target="_blank"}|
-|FRBR	|[Functional Requirements for Bibliographic Records](https://www.ifla.org/publications/functional-requirements-for-bibliographic-records){:target="_blank"}|
-|LC	|[Library of Congress](https://www.loc.gov/){:target="_blank"}|
-|LC-PCC PS | [Library of Congress and Program for Cooperative Cataloging Policy Statements](http://access.rdatoolkit.org/lcpschp0_lcps0-63.html){:target="_blank"}|
-|LCRI	|Library of Congress Rule Interpretations|
-|LRM	|[Library Reference Model](https://www.ifla.org/publications/node/11412){:target="_blank"}|
-|MARC	|[MAchine Readable Cataloging](https://www.loc.gov/marc/){:target="_blank"}|
-|PCC	|[Program for Cooperative Cataloging](https://www.loc.gov/aba/pcc/){:target="_blank"}|
-|RBMS	|[Rare Books and Manuscripts Section, Association of College and Research Libraries, American Library Association](http://rbms.info/){:target="_blank"}|
-|RBMS PS|RBMS Policy Statements|
-|RDA	|[RDA: Resource Description and Access](https://www.rdatoolkit.org/){:target="_blank"}| 
-|RSC  |[RDA Steering Committee](http://www.rda-rsc.org/){:target="_blank"}|
+<table>
+  <thead>
+    <tr>
+      <th>Abbreviation</th>
+      <th>Used for</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>3R Project</td>
+      <td>RDA Toolkit Restructure and Redesign Project</td>
+    </tr>
+    <tr>
+      <td>AACR2</td>
+      <td><em>Anglo-American Cataloguing Rules</em>, second edition</td>
+    </tr>
+    <tr>
+      <td>BDRB</td>
+      <td><a href="https://catalog.hathitrust.org/Record/007413360" target="_blank">Bibliographic Description of Rare Books</a></td>
+    </tr>
+    <tr>
+      <td>BIBCO</td>
+      <td><a href="https://www.loc.gov/aba/pcc/bibco/index.html" target="_blank">Monographic Bibliographic Record Cooperative Program of the PCC</a></td>
+    </tr>
+    <tr>
+      <td>BIBFRAME</td>
+      <td><a href="https://www.loc.gov/bibframe/" target="_blank">Bibliographic Framework Initiative</a></td>
+    </tr>
+    <tr>
+      <td>BSC</td>
+      <td><a href="http://rbms.info/committees/bibliographic_standards/" target="_blank">Bibliographic Standards Committee, Rare Books and Manuscripts Section, Association of College and Research Libraries, American Library Association</a></td>
+    </tr>
+    <tr>
+      <td>BSR</td>
+      <td><a href="https://www.loc.gov/aba/pcc/bibco/bsr-maps.html" target="_blank">BIBCO Standard Record Metadata Application Profiles</a></td>
+    </tr>
+    <tr>
+      <td>CC:DA</td>
+      <td><a href="https://alcts.ala.org/ccdablog/" target="_blank">Committee on Cataloging: Description and Access, Core: Leadership, Infrastructure, Futures, American Library Association</a></td>
+    </tr>
+    <tr>
+      <td>CONSER</td>
+      <td><a href="https://www.loc.gov/aba/pcc/conser/" target="_blank">Cooperative Online Serials Program of the PCC</a></td>
+    </tr>
+    <tr>
+      <td>CSR</td>
+      <td><a href="https://www.loc.gov/aba/pcc/conser/issues/CSR.html" target="_blank">CONSER Standard Record Metadata Application Profiles</a></td>
+    </tr>
+    <tr>
+      <td>DCRB</td>
+      <td><a href="https://catalog.hathitrust.org/Record/002570058" target="_blank">Descriptive Cataloging of Rare Books</a></td>
+    </tr>
+    <tr>
+      <td>DCRM</td>
+      <td><a href="http://rbms.info/dcrm/" target="_blank">Descriptive Cataloging of Rare Materials</a></td>
+    </tr>
+    <tr>
+      <td>DCRM(B)</td>
+      <td><a href="http://rbms.info/dcrm/dcrmb/" target="_blank">Descriptive Cataloging of Rare Materials (Books)</a></td>
+    </tr>
+    <tr>
+      <td>DCRM(C)</td>
+      <td><a href="http://rbms.info/dcrm/dcrmc/" target="_blank">Descriptive Cataloging of Rare Materials (Cartographic)</a></td>
+    </tr>
+    <tr>
+      <td>DCRM(G)</td>
+      <td><a href="http://rbms.info/dcrm/dcrmg/" target="_blank">Descriptive Cataloging of Rare Materials (Graphics)</a></td>
+    </tr>
+    <tr>
+      <td>DCRM(M)</td>
+      <td><a href="http://rbms.info/dcrm/dcrmm/" target="_blank">Descriptive Cataloging of Rare Materials (Music)</a></td>
+    </tr>
+    <tr>
+      <td>DCRM(MSS)</td>
+      <td><a href="http://rbms.info/dcrm/dcrmmss/" target="_blank">Descriptive Cataloging of Rare Materials (Manuscripts)</a></td>
+    </tr>
+    <tr>
+      <td>DCRMR</td>
+      <td><a href="/DCRMR/" target="_blank">Descriptive Cataloging of Rare Materials (RDA Edition)</a></td>
+    </tr>
+    <tr>
+      <td>DCRM(S)</td>
+      <td><a href="http://rbms.info/dcrm/dcrms/" target="_blank">Descriptive Cataloging of Rare Materials (Serials)</a></td>
+    </tr>
+    <tr>
+      <td>IFLA</td>
+      <td><a href="https://www.ifla.org/" target="_blank">International Federation of Library Associations and Institutions</a></td>
+    </tr>
+    <tr>
+      <td>ISBD</td>
+      <td><a href="https://repository.ifla.org/handle/123456789/1939" target="_blank">International Standard Bibliographic Description</a></td>
+    </tr>
+    <tr>
+      <td>FRBR</td>
+      <td><a href="https://www.ifla.org/publications/functional-requirements-for-bibliographic-records" target="_blank">Functional Requirements for Bibliographic Records</a></td>
+    </tr>
+    <tr>
+      <td>LC</td>
+      <td><a href="https://www.loc.gov/" target="_blank">Library of Congress</a></td>
+    </tr>
+    <tr>
+      <td>LC-PCC PS</td>
+      <td><a href="http://access.rdatoolkit.org/lcpschp0_lcps0-63.html" target="_blank">Library of Congress and Program for Cooperative Cataloging Policy Statements</a></td>
+    </tr>
+    <tr>
+      <td>LCRI</td>
+      <td>Library of Congress Rule Interpretations</td>
+    </tr>
+    <tr>
+      <td>LRM</td>
+      <td><a href="https://www.ifla.org/publications/node/11412" target="_blank">Library Reference Model</a></td>
+    </tr>
+    <tr>
+      <td>MARC</td>
+      <td><a href="https://www.loc.gov/marc/" target="_blank">MAchine Readable Cataloging</a></td>
+    </tr>
+    <tr>
+      <td>PCC</td>
+      <td><a href="https://www.loc.gov/aba/pcc/" target="_blank">Program for Cooperative Cataloging</a></td>
+    </tr>
+    <tr>
+      <td>RBMS</td>
+      <td><a href="http://rbms.info/" target="_blank">Rare Books and Manuscripts Section, Association of College and Research Libraries, American Library Association</a></td>
+    </tr>
+    <tr>
+      <td>RBMS PS</td>
+      <td>RBMS Policy Statements</td>
+    </tr>
+    <tr>
+      <td>RDA</td>
+      <td><a href="https://www.rdatoolkit.org/" target="_blank">RDA: Resource Description and Access</a></td>
+    </tr>
+    <tr>
+      <td>RSC</td>
+      <td><a href="http://www.rda-rsc.org/" target="_blank">RDA Steering Committee</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## i.01.7 Examples and notes
 

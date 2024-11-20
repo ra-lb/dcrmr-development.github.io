@@ -110,16 +110,48 @@ Make a note indicating the source chosen as the preferred source of information 
 
 <a name="0.1.5.1">0.1.5.1</a> The source(s) of information for each element are set out in preferred order below:
 
-| Elements                                               | Sources of Information |
-| ---------------------------                            | ---------------------- |
-| Title                                                  | Title page; whole sheet for single-sheet manifestations |
-| Statement of responsibility                            | Title page; whole sheet for single-sheet manifestations |
-| Edition                                                | Title page, other preliminaries, colophon, dust jacket; whole sheet for single-sheet manifestations |
-| Production, publication, distribution, manufacture | Title page, other preliminaries, colophon, dust jacket; whole sheet for single-sheet manifestations |
-| Physical description                                   | The whole manifestation |
-| Series                                                 | Series title page, monograph title page, cover, dust jacket, rest of manifestation |
-| Notes                                                  | Any source |
-| Identifiers                                             | Any source |
+<table>
+  <thead>
+    <tr>
+      <th>Elements</th>
+      <th>Sources of Information</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Title</td>
+      <td>Title page; whole sheet for single-sheet manifestations</td>
+    </tr>
+    <tr>
+      <td>Statement of responsibility</td>
+      <td>Title page; whole sheet for single-sheet manifestations</td>
+    </tr>
+    <tr>
+      <td>Edition</td>
+      <td>Title page, other preliminaries, colophon, dust jacket; whole sheet for single-sheet manifestations</td>
+    </tr>
+    <tr>
+      <td>Production, publication, distribution, manufacture</td>
+      <td>Title page, other preliminaries, colophon, dust jacket; whole sheet for single-sheet manifestations</td>
+    </tr>
+    <tr>
+      <td>Physical description</td>
+      <td>The whole manifestation</td>
+    </tr>
+    <tr>
+      <td>Series</td>
+      <td>Series title page, monograph title page, cover, dust jacket, rest of manifestation</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Any source</td>
+    </tr>
+    <tr>
+      <td>Identifiers</td>
+      <td>Any source</td>
+    </tr>
+  </tbody>
+</table>
 
 <a name="0.1.5.2">0.1.5.2</a> Transcribe information from the source for title, statement of responsibility, edition, production, publication, distribution, manufacture, and series only if it is present in the source of information for that element. In all cases in which information for these elements is taken from a source other than the title page (or series title page for series), always make a note to indicate the source of information (see note instructions for individual elements).
 

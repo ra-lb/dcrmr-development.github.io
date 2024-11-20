@@ -79,20 +79,64 @@ The Julian calendar was gradually abandoned in favor of the Gregorian calendar b
 
 <a name="5.13.34.1.Y.Y">5.13.34.1.Y.Y</a> Give a probable date or period of production according to one of the patterns shown in the examples below. Always indicate the basis for the conjecture in a [Note on production statement](/DCRMR/ppdm/Note-on-production-statement/) (see 5.14.SOMETHING.SOMETHING).
 
-| Conjectural date | Pattern |
-| --- | ---| --- |
-| [1560?]	| probable date | 
-| [approximately 1580] |approximate date | 
-|[approximately 1580?] |probable approximate date|
-|[not before 1479] |terminal date|
-|[not after 21 August 1492]	|terminal date|
-|[1727 or 1728] |one year or the other|
-|[between 1711 and 1749] |span certain|
-|[between 1711 and 1749?] |span uncertain|
-|[between 1670 and 1680] |decade certain|
-|[between 1670 and 1680?] |probable decade|
-|[between 1600 and 1700] |century certain|
-|[between 1600 and 1700?] |probable century|
+<table>
+  <thead>
+    <tr>
+      <th>Conjectural date</th>
+      <th>Pattern</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>[1560?]</td>
+      <td>probable date</td>
+    </tr>
+    <tr>
+      <td>[approximately 1580]</td>
+      <td>approximate date</td>
+    </tr>
+    <tr>
+      <td>[approximately 1580?]</td>
+      <td>probable approximate date</td>
+    </tr>
+    <tr>
+      <td>[not before 1479]</td>
+      <td>terminal date</td>
+    </tr>
+    <tr>
+      <td>[not after 21 August 1492]</td>
+      <td>terminal date</td>
+    </tr>
+    <tr>
+      <td>[1727 or 1728]</td>
+      <td>one year or the other</td>
+    </tr>
+    <tr>
+      <td>[between 1711 and 1749]</td>
+      <td>span certain</td>
+    </tr>
+    <tr>
+      <td>[between 1711 and 1749?]</td>
+      <td>span uncertain</td>
+    </tr>
+    <tr>
+      <td>[between 1670 and 1680]</td>
+      <td>decade certain</td>
+    </tr>
+    <tr>
+      <td>[between 1670 and 1680?]</td>
+      <td>probable decade</td>
+    </tr>
+    <tr>
+      <td>[between 1600 and 1700]</td>
+      <td>century certain</td>
+    </tr>
+    <tr>
+      <td>[between 1600 and 1700?]</td>
+      <td>probable century</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 5.13.35.Y.Y Date of production in multiple unit resources
 

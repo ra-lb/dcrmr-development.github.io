@@ -65,7 +65,578 @@ For additional guidance on recording symbols, see the [LC-PCC PS for 1.7.5](http
 
 <a name="0.4.15.1">0.4.15.1</a> Convert earlier forms of letters and symbols to their modern forms.
 
-<body class="c25"><a id="t.8857b8da2617a717285d88d7a30b12f17eb02a33"></a><a id="t.0"></a><table class="c24"><tbody><tr class="c30"><td class="c13" colspan="5" rowspan="1"><p class="c4"><span class="c27">Early letterforms and symbols</span></p></td></tr><tr class="c37"><td class="c36" colspan="1" rowspan="1"><p class="c4"><span class="c9">Source</span></p></td><td class="c28" colspan="1" rowspan="1"><p class="c4"><span class="c9">Modern </span><span class="c9">form</span></p></td><td class="c32" colspan="1" rowspan="1"><p class="c4"><span class="c9">Example</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c4"><span class="c9">Transcribed example</span></p></td><td class="c10" colspan="1" rowspan="1"><p class="c4"><span class="c7">Notes</span></p></td></tr><tr class="c2"><td class="c11" colspan="1" rowspan="2"><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 34.00px; height: 47.00px;"><img alt="d" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image11.png" style="width: 34.00px; height: 47.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="d"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 33.00px; height: 48.00px;"><img alt="d" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image45.png" style="width: 33.00px; height: 48.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="d"></span></p></td><td class="c1" colspan="1" rowspan="2"><p class="c4"><span class="c7">d</span></p></td><td class="c8" colspan="1" rowspan="2"><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 63.00px; height: 50.00px;"><img alt="day" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image7.png" style="width: 63.00px; height: 50.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="day"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 61.00px; height: 48.00px;"><img alt="sed" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image24.png" style="width: 61.00px; height: 48.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="sed"></span></p></td><td class="c3" colspan="1" rowspan="2"><p class="c4"><span class="c7">day</span></p><p class="c4 c6"><span class="c7"></span></p><p class="c4"><span class="c7">sed</span></p></td><td class="c10" colspan="1" rowspan="2"><p class="c4 c6"><span class="c7"></span></p></td></tr><tr class="c2"></tr><tr class="c2"><td class="c11" colspan="1" rowspan="3"><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 38.00px; height: 49.00px;"><img alt="ij" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image17.png" style="width: 43.00px; height: 49.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="ij"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 34.00px; height: 47.83px;"><img alt="ij" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image16.png" style="width: 34.00px; height: 52.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="ij"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 35.00px; height: 49.00px;"><img alt="ij" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image29.png" style="width: 35.00px; height: 49.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="ij"></span></p></td><td class="c1" colspan="1" rowspan="3"><p class="c4"><span class="c7">ij</span></p></td><td class="c8" colspan="1" rowspan="3"><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 100.00px; height: 49.00px;"><img alt="filij" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image8.png" style="width: 100.00px; height: 49.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="filij"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 93.00px; height: 46.00px;"><img alt="vitijs" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image9.png" style="width: 93.00px; height: 46.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="vitijs"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 110.00px; height: 50.67px;"><img alt="patrij" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image38.png" style="width: 110.00px; height: 50.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="patrij"></span></p></td><td class="c3" colspan="1" rowspan="3"><p class="c4"><span class="c7">filij</span></p><p class="c4 c6"><span class="c7"></span></p><p class="c4"><span class="c7">vitijs</span></p><p class="c4 c6"><span class="c7"></span></p><p class="c4"><span class="c7">patrij</span></p></td><td class="c10" colspan="1" rowspan="3"><p class="c4"><span class="c9">Ligatured italic </span><span class="c17">ij</span><span class="c9">&nbsp;looks like </span><span class="c17">&yuml;</span></p></td></tr><tr class="c2"></tr><tr class="c2"></tr><tr class="c2"><td class="c11" colspan="1" rowspan="2"><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 79.00px; height: 48.00px;"><img alt="apostrophus" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image27.png" style="width: 79.00px; height: 48.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="M"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 78.00px; height: 50.00px;"><img alt="apostrophus" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image33.png" style="width: 78.00px; height: 50.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="M"></span></p></td><td class="c1" colspan="1" rowspan="2"><p class="c4"><span class="c7">M</span></p></td><td class="c20" colspan="1" rowspan="4"><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 210.50px; height: 40.91px;"><img alt="MDXCII" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image4.png" style="width: 210.50px; height: 40.91px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="MDXCII"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 206.50px; height: 41.14px;"><img alt="M.D.XXIX." src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image14.png" style="width: 206.50px; height: 41.14px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="M.D.XXIX."></span></p></td><td class="c3" colspan="1" rowspan="4"><p class="c4"><span class="c7">MDXCII</span></p><p class="c4 c6"><span class="c7"></span></p><p class="c4"><span class="c7">M.D.XXIX.</span></p></td><td class="c10" colspan="1" rowspan="4"><p class="c4"><span class="c9">Inverted </span><span class="c17">C</span><span class="c9">&nbsp;used to form roman numeral </span><span class="c17">M</span><span class="c9">&nbsp;or </span><span class="c17">D</span><span class="c7">&nbsp;is called an apostrophus</span></p></td></tr><tr class="c2"></tr><tr class="c2"><td class="c11" colspan="1" rowspan="2"><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 59.00px; height: 48.00px;"><img alt="apostrophus" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image40.png" style="width: 59.00px; height: 48.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="D"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 51.00px; height: 50.00px;"><img alt="apostrophus" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image41.png" style="width: 51.00px; height: 50.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="D"></span></p></td><td class="c1" colspan="1" rowspan="2"><p class="c4"><span class="c7">D</span></p></td></tr><tr class="c2"></tr><tr class="c2"><td class="c11" colspan="1" rowspan="2"><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 30.00px; height: 50.00px;"><img alt="r" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image47.png" style="width: 30.00px; height: 50.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="r"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 32.00px; height: 50.00px;"><img alt="r" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image49.png" style="width: 32.00px; height: 50.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="r"></span></p></td><td class="c1" colspan="1" rowspan="2"><p class="c4"><span class="c7">r</span></p></td><td class="c8" colspan="1" rowspan="2"><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 150.00px; height: 50.00px;"><img alt="corporis" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image46.png" style="width: 150.00px; height: 50.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="corporis"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 111.00px; height: 47.00px;"><img alt="orders" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image28.png" style="width: 111.00px; height: 47.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="orders"></span></p></td><td class="c3" colspan="1" rowspan="2"><p class="c4"><span class="c7">corporis</span></p><p class="c4 c6"><span class="c7"></span></p><p class="c4"><span class="c7">orders</span></p></td><td class="c10" colspan="1" rowspan="2"><p class="c4 c6"><span class="c7"></span></p></td></tr><tr class="c2"></tr><tr class="c12"><td class="c11" colspan="1" rowspan="4"><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 32.00px; height: 50.00px;"><img alt="s" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image2.png" style="width: 32.00px; height: 50.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="s"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 33.00px; height: 51.00px;"><img alt="s" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image10.png" style="width: 33.00px; height: 51.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="s"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 33.00px; height: 51.00px;"><img alt="s" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image34.png" style="width: 33.00px; height: 51.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="s"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 35.00px; height: 50.00px;"><img alt="s" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image42.png" style="width: 35.00px; height: 50.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="s"></span></p></td><td class="c1" colspan="1" rowspan="4"><p class="c4"><span class="c7">s</span></p></td><td class="c8" colspan="1" rowspan="4"><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 105.00px; height: 49.00px;"><img alt="Iesus" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image22.png" style="width: 105.00px; height: 49.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="Iesus"></span><sup><a href="#cmnt1" id="cmnt_ref1">[a]</a></sup></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 96.00px; height: 49.00px;"><img alt="false" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image39.png" style="width: 96.00px; height: 49.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="false"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 91.00px; height: 49.00px;"><img alt="fuisse" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image31.png" style="width: 91.00px; height: 49.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="fuisse"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 72.00px; height: 47.00px;"><img alt="safe" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image15.png" style="width: 72.00px; height: 47.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="safe"></span></p></td><td class="c3" colspan="1" rowspan="4"><p class="c4"><span class="c9">Iesus</span></p><p class="c4 c6"><span class="c7"></span></p><p class="c4"><span class="c7">false</span></p><p class="c4 c6"><span class="c7"></span></p><p class="c4"><span class="c7">fuisse</span></p><p class="c4 c6"><span class="c7"></span></p><p class="c4"><span class="c7">safe</span></p></td><td class="c10" colspan="1" rowspan="4"><p class="c4"><span class="c9">Long </span><span class="c17">s</span><span class="c9">&nbsp;(an </span><span class="c17">f</span><span class="c9">&nbsp;has a crossbar on the stem; the bar on a long </span><span class="c17">s</span><span class="c7">, if present, extends from one side only)</span></p></td></tr><tr class="c12"></tr><tr class="c12"></tr><tr class="c12"></tr><tr class="c12"><td class="c11" colspan="1" rowspan="3"><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 39.00px; height: 48.00px;"><img alt="ss" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image19.png" style="width: 39.00px; height: 48.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="ss"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 38.00px; height: 49.00px;"><img alt="ss" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image5.png" style="width: 38.00px; height: 49.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="ss"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 46.00px; height: 48.00px;"><img alt="ss" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image18.png" style="width: 46.00px; height: 48.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="ss"></span></p></td><td class="c1" colspan="1" rowspan="3"><p class="c4"><span class="c7">ss</span></p></td><td class="c8" colspan="1" rowspan="3"><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 82.00px; height: 48.00px;"><img alt="esse" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image12.png" style="width: 82.00px; height: 48.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="esse"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 75.00px; height: 48.00px;"><img alt="auss" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image20.png" style="width: 75.00px; height: 48.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="auss"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 84.00px; height: 47.00px;"><img alt="Kiess" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image25.png" style="width: 84.00px; height: 47.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="Kiess"></span></p></td><td class="c3" colspan="1" rowspan="3"><p class="c4"><span class="c7">esse</span></p><p class="c4 c6"><span class="c7"></span></p><p class="c4"><span class="c7">auss</span></p><p class="c4 c6"><span class="c7"></span></p><p class="c4"><span class="c7">Kiess</span></p></td><td class="c10" colspan="1" rowspan="3"><p class="c4 c6"><span class="c7"></span></p></td></tr><tr class="c12"></tr><tr class="c12"></tr><tr class="c16"><td class="c38" colspan="1" rowspan="1"><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 45.00px; height: 50.00px;"><img alt="sz" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image36.png" style="width: 45.00px; height: 50.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="sz"></span></p></td><td class="c1" colspan="1" rowspan="1"><p class="c4"><span class="c7">sz</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 136.00px; height: 48.00px;"><img alt="&uuml;berflusz" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image13.png" style="width: 136.00px; height: 48.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="&uuml;berflusz"></span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c4"><span class="c7">&uuml;berflusz</span></p></td><td class="c10" colspan="1" rowspan="1"><p class="c4"><span class="c9">Long </span><span class="c17">s</span><span class="c9">&nbsp;and </span><span class="c17">z</span><span class="c7">&nbsp;are spaced normally, no ligature</span></p></td></tr><tr class="c16"><td class="c11" colspan="1" rowspan="1"><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 30.00px; height: 50.00px;"><img alt="-" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image35.png" style="width: 30.00px; height: 50.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="-"></span></p></td><td class="c1" colspan="1" rowspan="1"><p class="c4"><span class="c7">-</span></p></td><td class="c8" colspan="1" rowspan="1"><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 167.00px; height: 47.00px;"><img alt="ale-houses" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image30.png" style="width: 167.00px; height: 47.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="ale-houses"></span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c4"><span class="c7">ale-houses</span></p></td><td class="c10" colspan="1" rowspan="1"><p class="c4 c6"><span class="c7"></span></p></td></tr><tr class="c16"><td class="c11" colspan="1" rowspan="1"><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 29.00px; height: 49.00px;"><img alt="&deg;" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image3.png" style="width: 29.00px; height: 49.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="&deg;"></span></p></td><td class="c35" colspan="1" rowspan="1"><p class="c4"><span class="c7">&deg;</span></p></td><td class="c8" colspan="1" rowspan="1"><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 80.00px; height: 46.00px;"><img alt="m&#367;ss" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image6.png" style="width: 80.00px; height: 46.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="m&#367;ss"></span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c4"><span class="c7">m&#367;ss</span></p></td><td class="c10" colspan="1" rowspan="1"><p class="c4 c6"><span class="c7"></span></p></td></tr><tr class="c16"><td class="c11" colspan="1" rowspan="1"><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 29.00px; height: 47.00px;"><img alt="&middot;&middot;" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image37.png" style="width: 29.00px; height: 47.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="&middot;&middot;"></span></p></td><td class="c35" colspan="1" rowspan="1"><p class="c4"><span class="c7">&middot;&middot;</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 97.00px; height: 48.00px;"><img alt="Gl&uuml;ck" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image44.png" style="width: 97.00px; height: 48.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="Gl&uuml;ck"></span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c4"><span class="c7">Gl&uuml;ck</span></p></td><td class="c10" colspan="1" rowspan="1"><p class="c4"><span class="c9">Superscript </span><span class="c17">e</span><span class="c7">&nbsp;functioning as an umlaut</span></p></td></tr><tr class="c12"><td class="c11" colspan="1" rowspan="5"><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 59.00px; height: 47.00px;"><img alt="&amp;" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image1.png" style="width: 59.00px; height: 47.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="&amp;"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 44.00px; height: 49.00px;"><img alt="&amp;" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image21.png" style="width: 44.00px; height: 49.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="&amp;"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 46.00px; height: 49.00px;"><img alt="&amp;" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image32.png" style="width: 46.00px; height: 49.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="&amp;"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 46.00px; height: 49.00px;"><img alt="&amp;" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image43.png" style="width: 46.00px; height: 49.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="&amp;"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 45.00px; height: 50.00px;"><img alt="&amp;" src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image48.png" style="width: 45.00px; height: 50.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="&amp;"></span></p></td><td class="c1" colspan="1" rowspan="5"><p class="c4"><span class="c7">&amp;</span></p></td><td class="c8" colspan="1" rowspan="5"><p class="c4 c6"><span class="c5"></span></p><p class="c4 c6"><span class="c5"></span></p><p class="c4 c6"><span class="c5"></span></p><p class="c4 c6"><span class="c5"></span></p><p class="c4 c6"><span class="c5"></span></p><p class="c4 c6"><span class="c5"></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 81.00px; height: 48.00px;"><img alt="&amp;c." src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image50.png" style="width: 81.00px; height: 48.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="&amp;c."></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 63.00px; height: 47.00px;"><img alt="&amp;c." src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image23.png" style="width: 63.00px; height: 47.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="&amp;c."></span></p><p class="c4"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 57.00px; height: 49.00px;"><img alt="&amp;c." src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image26.png" style="width: 57.00px; height: 49.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="&amp;c."></span></p></td><td class="c3" colspan="1" rowspan="5"><p class="c4 c6"><span class="c7"></span></p><p class="c4 c6"><span class="c7"></span></p><p class="c4 c6"><span class="c7"></span></p><p class="c4 c6"><span class="c7"></span></p><p class="c4"><span class="c7">&amp;c.</span></p><p class="c4 c6"><span class="c7"></span></p><p class="c4"><span class="c7">&amp;c.</span></p><p class="c4 c6"><span class="c7"></span></p><p class="c4"><span class="c7">&amp;c.</span></p></td><td class="c10" colspan="1" rowspan="5"><p class="c4 c6"><span class="c7"></span></p></td></tr><tr class="c12"></tr><tr class="c12"></tr><tr class="c12"></tr><tr class="c12"></tr></tbody></table><p class="c6 c26"><span class="c21"></span></p>
+<body class="c25"><a id="t.8857b8da2617a717285d88d7a30b12f17eb02a33"></a><a id="t.0"></a>
+    <table class="c24">
+        <tbody>
+            <tr class="c30">
+                <td class="c13" colspan="5" rowspan="1">
+                    <p class="c4"><span class="c27">Early letterforms and symbols</span></p>
+                </td>
+            </tr>
+            <tr class="c37">
+                <td class="c36" colspan="1" rowspan="1">
+                    <p class="c4"><span class="c9">Source</span></p>
+                </td>
+                <td class="c28" colspan="1" rowspan="1">
+                    <p class="c4"><span class="c9">Modern </span><span class="c9">form</span></p>
+                </td>
+                <td class="c32" colspan="1" rowspan="1">
+                    <p class="c4"><span class="c9">Example</span></p>
+                </td>
+                <td class="c3" colspan="1" rowspan="1">
+                    <p class="c4"><span class="c9">Transcribed example</span></p>
+                </td>
+                <td class="c10" colspan="1" rowspan="1">
+                    <p class="c4"><span class="c7">Notes</span></p>
+                </td>
+            </tr>
+            <tr class="c2">
+                <td class="c11" colspan="1" rowspan="2">
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 34.00px; height: 47.00px;"><img
+                                alt="d"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image11.png"
+                                style="width: 34.00px; height: 47.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="d"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 33.00px; height: 48.00px;"><img
+                                alt="d"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image45.png"
+                                style="width: 33.00px; height: 48.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="d"></span></p>
+                </td>
+                <td class="c1" colspan="1" rowspan="2">
+                    <p class="c4"><span class="c7">d</span></p>
+                </td>
+                <td class="c8" colspan="1" rowspan="2">
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 63.00px; height: 50.00px;"><img
+                                alt="day"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image7.png"
+                                style="width: 63.00px; height: 50.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="day"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 61.00px; height: 48.00px;"><img
+                                alt="sed"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image24.png"
+                                style="width: 61.00px; height: 48.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="sed"></span></p>
+                </td>
+                <td class="c3" colspan="1" rowspan="2">
+                    <p class="c4"><span class="c7">day</span></p>
+                    <p class="c4 c6"><span class="c7"></span></p>
+                    <p class="c4"><span class="c7">sed</span></p>
+                </td>
+                <td class="c10" colspan="1" rowspan="2">
+                    <p class="c4 c6"><span class="c7"></span></p>
+                </td>
+            </tr>
+            <tr class="c2"></tr>
+            <tr class="c2">
+                <td class="c11" colspan="1" rowspan="3">
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 38.00px; height: 49.00px;"><img
+                                alt="ij"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image17.png"
+                                style="width: 43.00px; height: 49.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="ij"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 34.00px; height: 47.83px;"><img
+                                alt="ij"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image16.png"
+                                style="width: 34.00px; height: 52.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="ij"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 35.00px; height: 49.00px;"><img
+                                alt="ij"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image29.png"
+                                style="width: 35.00px; height: 49.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="ij"></span></p>
+                </td>
+                <td class="c1" colspan="1" rowspan="3">
+                    <p class="c4"><span class="c7">ij</span></p>
+                </td>
+                <td class="c8" colspan="1" rowspan="3">
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 100.00px; height: 49.00px;"><img
+                                alt="filij"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image8.png"
+                                style="width: 100.00px; height: 49.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="filij"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 93.00px; height: 46.00px;"><img
+                                alt="vitijs"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image9.png"
+                                style="width: 93.00px; height: 46.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="vitijs"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 110.00px; height: 50.67px;"><img
+                                alt="patrij"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image38.png"
+                                style="width: 110.00px; height: 50.67px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="patrij"></span></p>
+                </td>
+                <td class="c3" colspan="1" rowspan="3">
+                    <p class="c4"><span class="c7">filij</span></p>
+                    <p class="c4 c6"><span class="c7"></span></p>
+                    <p class="c4"><span class="c7">vitijs</span></p>
+                    <p class="c4 c6"><span class="c7"></span></p>
+                    <p class="c4"><span class="c7">patrij</span></p>
+                </td>
+                <td class="c10" colspan="1" rowspan="3">
+                    <p class="c4"><span class="c9">Ligatured italic </span><span class="c17">ij</span><span
+                            class="c9">&nbsp;
+                            looks like </span><span class="c17">&yuml;
+                        </span></p>
+                </td>
+            </tr>
+            <tr class="c2"></tr>
+            <tr class="c2"></tr>
+            <tr class="c2">
+                <td class="c11" colspan="1" rowspan="2">
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 79.00px; height: 48.00px;"><img
+                                alt="apostrophus"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image27.png"
+                                style="width: 79.00px; height: 48.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="M"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 78.00px; height: 50.00px;"><img
+                                alt="apostrophus"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image33.png"
+                                style="width: 78.00px; height: 50.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="M"></span></p>
+                </td>
+                <td class="c1" colspan="1" rowspan="2">
+                    <p class="c4"><span class="c7">M</span></p>
+                </td>
+                <td class="c20" colspan="1" rowspan="4">
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 210.50px; height: 40.91px;"><img
+                                alt="MDXCII"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image4.png"
+                                style="width: 210.50px; height: 40.91px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="MDXCII"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 206.50px; height: 41.14px;"><img
+                                alt="M.D.XXIX."
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image14.png"
+                                style="width: 206.50px; height: 41.14px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="M.D.XXIX."></span></p>
+                </td>
+                <td class="c3" colspan="1" rowspan="4">
+                    <p class="c4"><span class="c7">MDXCII</span></p>
+                    <p class="c4 c6"><span class="c7"></span></p>
+                    <p class="c4"><span class="c7">M.D.XXIX.</span></p>
+                </td>
+                <td class="c10" colspan="1" rowspan="4">
+                    <p class="c4"><span class="c9">Inverted </span><span class="c17">C</span><span class="c9">&nbsp;
+                            used to form roman numeral </span><span class="c17">M</span><span class="c9">&nbsp;
+                            or </span><span class="c17">D</span><span class="c7">&nbsp;
+                            is called an apostrophus</span></p>
+                </td>
+            </tr>
+            <tr class="c2"></tr>
+            <tr class="c2">
+                <td class="c11" colspan="1" rowspan="2">
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 59.00px; height: 48.00px;"><img
+                                alt="apostrophus"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image40.png"
+                                style="width: 59.00px; height: 48.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="D"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 51.00px; height: 50.00px;"><img
+                                alt="apostrophus"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image41.png"
+                                style="width: 51.00px; height: 50.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="D"></span></p>
+                </td>
+                <td class="c1" colspan="1" rowspan="2">
+                    <p class="c4"><span class="c7">D</span></p>
+                </td>
+            </tr>
+            <tr class="c2"></tr>
+            <tr class="c2">
+                <td class="c11" colspan="1" rowspan="2">
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 30.00px; height: 50.00px;"><img
+                                alt="r"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image47.png"
+                                style="width: 30.00px; height: 50.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="r"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 32.00px; height: 50.00px;"><img
+                                alt="r"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image49.png"
+                                style="width: 32.00px; height: 50.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="r"></span></p>
+                </td>
+                <td class="c1" colspan="1" rowspan="2">
+                    <p class="c4"><span class="c7">r</span></p>
+                </td>
+                <td class="c8" colspan="1" rowspan="2">
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 150.00px; height: 50.00px;"><img
+                                alt="corporis"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image46.png"
+                                style="width: 150.00px; height: 50.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="corporis"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 111.00px; height: 47.00px;"><img
+                                alt="orders"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image28.png"
+                                style="width: 111.00px; height: 47.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="orders"></span></p>
+                </td>
+                <td class="c3" colspan="1" rowspan="2">
+                    <p class="c4"><span class="c7">corporis</span></p>
+                    <p class="c4 c6"><span class="c7"></span></p>
+                    <p class="c4"><span class="c7">orders</span></p>
+                </td>
+                <td class="c10" colspan="1" rowspan="2">
+                    <p class="c4 c6"><span class="c7"></span></p>
+                </td>
+            </tr>
+            <tr class="c2"></tr>
+            <tr class="c12">
+                <td class="c11" colspan="1" rowspan="4">
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 32.00px; height: 50.00px;"><img
+                                alt="s"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image2.png"
+                                style="width: 32.00px; height: 50.00px; margin-left: 0.00px; margin-top: 0.00px; "
+                                title="s"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 33.00px; height: 51.00px;"><img
+                                alt="s"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image10.png"
+                                style="width: 33.00px; height: 51.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="s"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 33.00px; height: 51.00px;"><img
+                                alt="s"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image34.png"
+                                style="width: 33.00px; height: 51.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="s"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 35.00px; height: 50.00px;"><img
+                                alt="s"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image42.png"
+                                style="width: 35.00px; height: 50.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="s"></span></p>
+                </td>
+                <td class="c1" colspan="1" rowspan="4">
+                    <p class="c4"><span class="c7">s</span></p>
+                </td>
+                <td class="c8" colspan="1" rowspan="4">
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 105.00px; height: 49.00px;"><img
+                                alt="Iesus"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image22.png"
+                                style="width: 105.00px; height: 49.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="Iesus"></span><sup><a href="#cmnt1" id="cmnt_ref1">[a]</a></sup></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 96.00px; height: 49.00px;"><img
+                                alt="false"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image39.png"
+                                style="width: 96.00px; height: 49.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="false"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 91.00px; height: 49.00px;"><img
+                                alt="fuisse"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image31.png"
+                                style="width: 91.00px; height: 49.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="fuisse"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 72.00px; height: 47.00px;"><img
+                                alt="safe"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image15.png"
+                                style="width: 72.00px; height: 47.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="safe"></span></p>
+                </td>
+                <td class="c3" colspan="1" rowspan="4">
+                    <p class="c4"><span class="c9">Iesus</span></p>
+                    <p class="c4 c6"><span class="c7"></span></p>
+                    <p class="c4"><span class="c7">false</span></p>
+                    <p class="c4 c6"><span class="c7"></span></p>
+                    <p class="c4"><span class="c7">fuisse</span></p>
+                    <p class="c4 c6"><span class="c7"></span></p>
+                    <p class="c4"><span class="c7">safe</span></p>
+                </td>
+                <td class="c10" colspan="1" rowspan="4">
+                    <p class="c4"><span class="c9">Long </span><span class="c17">s</span><span class="c9">&nbsp;
+                            (an </span><span class="c17">f</span><span class="c9">&nbsp; has a crossbar on the stem; the
+                            bar on a long </span><span class="c17">s</span><span class="c7">, if present, extends from
+                            one side only)</span></p>
+                </td>
+            </tr>
+            <tr class="c12"></tr>
+            <tr class="c12"></tr>
+            <tr class="c12"></tr>
+            <tr class="c12">
+                <td class="c11" colspan="1" rowspan="3">
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 39.00px; height: 48.00px;"><img
+                                alt="ss"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image19.png"
+                                style="width: 39.00px; height: 48.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="ss"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 38.00px; height: 49.00px;"><img
+                                alt="ss"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image5.png"
+                                style="width: 38.00px; height: 49.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="ss"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 46.00px; height: 48.00px;"><img
+                                alt="ss"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image18.png"
+                                style="width: 46.00px; height: 48.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="ss"></span></p>
+                </td>
+                <td class="c1" colspan="1" rowspan="3">
+                    <p class="c4"><span class="c7">ss</span></p>
+                </td>
+                <td class="c8" colspan="1" rowspan="3">
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 82.00px; height: 48.00px;"><img
+                                alt="esse"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image12.png"
+                                style="width: 82.00px; height: 48.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="esse"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 75.00px; height: 48.00px;"><img
+                                alt="auss"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image20.png"
+                                style="width: 75.00px; height: 48.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="auss"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 84.00px; height: 47.00px;"><img
+                                alt="Kiess"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image25.png"
+                                style="width: 84.00px; height: 47.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="Kiess"></span></p>
+                </td>
+                <td class="c3" colspan="1" rowspan="3">
+                    <p class="c4"><span class="c7">esse</span></p>
+                    <p class="c4 c6"><span class="c7"></span></p>
+                    <p class="c4"><span class="c7">auss</span></p>
+                    <p class="c4 c6"><span class="c7"></span></p>
+                    <p class="c4"><span class="c7">Kiess</span></p>
+                </td>
+                <td class="c10" colspan="1" rowspan="3">
+                    <p class="c4 c6"><span class="c7"></span></p>
+                </td>
+            </tr>
+            <tr class="c12"></tr>
+            <tr class="c12"></tr>
+            <tr class="c16">
+                <td class="c38" colspan="1" rowspan="1">
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 45.00px; height: 50.00px;"><img
+                                alt="sz"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image36.png"
+                                style="width: 45.00px; height: 50.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="sz"></span></p>
+                </td>
+                <td class="c1" colspan="1" rowspan="1">
+                    <p class="c4"><span class="c7">sz</span></p>
+                </td>
+                <td class="c20" colspan="1" rowspan="1">
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 136.00px; height: 48.00px;"><img
+                                alt="&uuml;berflusz"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image13.png"
+                                style="width: 136.00px; height: 48.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="&uuml;berflusz"></span></p>
+                </td>
+                <td class="c3" colspan="1" rowspan="1">
+                    <p class="c4"><span class="c7">&uuml;
+                            berflusz</span></p>
+                </td>
+                <td class="c10" colspan="1" rowspan="1">
+                    <p class="c4"><span class="c9">Long </span><span class="c17">s</span><span class="c9">&nbsp;
+                            and </span><span class="c17">z</span><span class="c7">&nbsp;
+                            are spaced normally,
+                            no ligature</span></p>
+                </td>
+            </tr>
+            <tr class="c16">
+                <td class="c11" colspan="1" rowspan="1">
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 30.00px; height: 50.00px;"><img
+                                alt="-"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image35.png"
+                                style="width: 30.00px; height: 50.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="-"></span></p>
+                </td>
+                <td class="c1" colspan="1" rowspan="1">
+                    <p class="c4"><span class="c7">-</span></p>
+                </td>
+                <td class="c8" colspan="1" rowspan="1">
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 167.00px; height: 47.00px;"><img
+                                alt="ale-houses"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image30.png"
+                                style="width: 167.00px; height: 47.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="ale-houses"></span></p>
+                </td>
+                <td class="c3" colspan="1" rowspan="1">
+                    <p class="c4"><span class="c7">ale-houses</span></p>
+                </td>
+                <td class="c10" colspan="1" rowspan="1">
+                    <p class="c4 c6"><span class="c7"></span></p>
+                </td>
+            </tr>
+            <tr class="c16">
+                <td class="c11" colspan="1" rowspan="1">
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 29.00px; height: 49.00px;"><img
+                                alt="&deg;"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image3.png"
+                                style="width: 29.00px; height: 49.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="&deg;"></span></p>
+                </td>
+                <td class="c35" colspan="1" rowspan="1">
+                    <p class="c4"><span class="c7">&deg;
+                        </span></p>
+                </td>
+                <td class="c8" colspan="1" rowspan="1">
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 80.00px; height: 46.00px;"><img
+                                alt="m&#367;ss"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image6.png"
+                                style="width: 80.00px; height: 46.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="m&#367;ss"></span></p>
+                </td>
+                <td class="c3" colspan="1" rowspan="1">
+                    <p class="c4"><span class="c7">m&#367;
+                            ss</span></p>
+                </td>
+                <td class="c10" colspan="1" rowspan="1">
+                    <p class="c4 c6"><span class="c7"></span></p>
+                </td>
+            </tr>
+            <tr class="c16">
+                <td class="c11" colspan="1" rowspan="1">
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 29.00px; height: 47.00px;"><img
+                                alt="&middot;&middot;"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image37.png"
+                                style="width: 29.00px; height: 47.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="&middot;&middot;"></span></p>
+                </td>
+                <td class="c35" colspan="1" rowspan="1">
+                    <p class="c4"><span class="c7">&middot;
+                            &middot;
+                        </span></p>
+                </td>
+                <td class="c20" colspan="1" rowspan="1">
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 97.00px; height: 48.00px;"><img
+                                alt="Gl&uuml;ck"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image44.png"
+                                style="width: 97.00px; height: 48.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="Gl&uuml;ck"></span></p>
+                </td>
+                <td class="c3" colspan="1" rowspan="1">
+                    <p class="c4"><span class="c7">Gl&uuml;
+                            ck</span></p>
+                </td>
+                <td class="c10" colspan="1" rowspan="1">
+                    <p class="c4"><span class="c9">Superscript </span><span class="c17">e</span><span class="c7">&nbsp;
+                            functioning as an umlaut</span></p>
+                </td>
+            </tr>
+            <tr class="c12">
+                <td class="c11" colspan="1" rowspan="5">
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 59.00px; height: 47.00px;"><img
+                                alt="&amp;"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image1.png"
+                                style="width: 59.00px; height: 47.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="&amp;"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 44.00px; height: 49.00px;"><img
+                                alt="&amp;"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image21.png"
+                                style="width: 44.00px; height: 49.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="&amp;"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 46.00px; height: 49.00px;"><img
+                                alt="&amp;"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image32.png"
+                                style="width: 46.00px; height: 49.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="&amp;"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 46.00px; height: 49.00px;"><img
+                                alt="&amp;"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image43.png"
+                                style="width: 46.00px; height: 49.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="&amp;"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 45.00px; height: 50.00px;"><img
+                                alt="&amp;"
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image48.png"
+                                style="width: 45.00px; height: 50.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="&amp;"></span></p>
+                </td>
+                <td class="c1" colspan="1" rowspan="5">
+                    <p class="c4"><span class="c7">&amp;
+                        </span></p>
+                </td>
+                <td class="c8" colspan="1" rowspan="5">
+                    <p class="c4 c6"><span class="c5"></span></p>
+                    <p class="c4 c6"><span class="c5"></span></p>
+                    <p class="c4 c6"><span class="c5"></span></p>
+                    <p class="c4 c6"><span class="c5"></span></p>
+                    <p class="c4 c6"><span class="c5"></span></p>
+                    <p class="c4 c6"><span class="c5"></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 81.00px; height: 48.00px;"><img
+                                alt="&amp;c."
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image50.png"
+                                style="width: 81.00px; height: 48.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="&amp;c."></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 63.00px; height: 47.00px;"><img
+                                alt="&amp;c."
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image23.png"
+                                style="width: 63.00px; height: 47.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="&amp;c."></span></p>
+                    <p class="c4"><span
+                            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; width: 57.00px; height: 49.00px;"><img
+                                alt="&amp;c."
+                                src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early-letterforms-and-symbols/image26.png"
+                                style="width: 57.00px; height: 49.00px; margin-left: 0.00px; margin-top: 0.00px;"
+                                title="&amp;c."></span></p>
+                </td>
+                <td class="c3" colspan="1" rowspan="5">
+                    <p class="c4 c6"><span class="c7"></span></p>
+                    <p class="c4 c6"><span class="c7"></span></p>
+                    <p class="c4 c6"><span class="c7"></span></p>
+                    <p class="c4 c6"><span class="c7"></span></p>
+                    <p class="c4"><span class="c7">&amp;
+                            c.</span></p>
+                    <p class="c4 c6"><span class="c7"></span></p>
+                    <p class="c4"><span class="c7">&amp;
+                            c.</span></p>
+                    <p class="c4 c6"><span class="c7"></span></p>
+                    <p class="c4"><span class="c7">&amp;
+                            c.</span></p>
+                </td>
+                <td class="c10" colspan="1" rowspan="5">
+                    <p class="c4 c6"><span class="c7"></span></p>
+                </td>
+            </tr>
+            <tr class="c12"></tr>
+            <tr class="c12"></tr>
+            <tr class="c12"></tr>
+            <tr class="c12"></tr>
+        </tbody>
+    </table>
+    <p class="c6 c26"><span class="c21"></span></p>
 
 <div class="c34"><p class="c4"><a href="#cmnt_ref1" id="cmnt1">[a]</a><span class="c21">See <a href="/DCRMR/general-rules/Transcription/#0.4.23.1">0.4.23.1</a>.</span></p></div></body>
 
@@ -73,34 +644,228 @@ For additional guidance on recording symbols, see the [LC-PCC PS for 1.7.5](http
 
 <a name="0.4.16.1">0.4.16.1</a> If brevigraphs (special marks of contraction in continuance of the manuscript tradition) have been used, expand affected words to their full form and enclose supplied letters in square brackets. The values of many contractions are dependent on context, with the most common values provided here. (See [0.4.82](/DCRMR/general-rules/Transcription/#0482-abbreviations-and-contractions) for modern contractions.)
 
-|Brevigraphs| | | | | |
-|---|---|---|---|---|
-|Source|Transcription|Example|Transcription of example|Notes|
-| ![Brevigraph](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/Brevigraph-1.png "Brevigraph") | [missing letter(s)] | ![Co[n]summatu[m]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/Co%5Bn%5Dsummatu%5Bm%5D.png "co[n]summatu[m]")  ![D[omi]n[u]s](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/D%5Bomi%5Dn%5Bu%5Ds.png "D[omi]n[u]s") | co[n]summatu[m] D[omi]n[u]s | Over a vowel, usually **n** or **m**; over a consonant, often replaces several letters 
-| ![ae](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bae%5D.png "[ae]") | [ae] | ![h[ae]c](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/h%5Bae%5Dc.png "h[ae]c") | h[ae]c |
-| ![Christus](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5BChristus%5D.png "Christus")| [Christus] | | |A contraction using both Greek and Latin letters |
-| ![con](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bcon%5D.png "con") | [con] | ![[con]cor[di]a](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bcon%5Dcor%5Bdi%5Da.png "[con]cor[di]a") | [con]cor[di]a | 
-| ![Brevigraph](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/brevigraph-2.png "Brevigraph") <br/> ![Brevigraph](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/brevigraph-3.png "Brevigraph") | [es]<br/> [ius]<br/>[m]<br/> [us]| ![statut[es]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/statut%5Bes%5D.png "statut[es]") <br/>   ![Ross[es]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/Ross%5Bes%5D.png "Ross[es]") <br/>   ![cu[ius]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/cu%5Bius%5D.png "cu[ius]") <br/>  ![impressu[m]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/impressu%5Bm%5D.png "impressu[m]")   ![ei[us]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ei%5Bus%5D.png "ei[us]") | statut[es]<br/> Ross[es]<br/> cu[ius]<br/> impressu[m]<br/> ei[us]  | A highly versatile symbol; see also, for example, "[habet]," "[que]," "[scilicet]," and "[sed]" below |
-| ![habet](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bhabet%5D.png "habet") |[habet]| | | |
-| ![[hoc]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bhoc%5D.png "habet") |[hoc]| | | |
-| ![Brevigraph](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/brevigraph-4.png "Brevigraph") | [per]<br/> [par]| ![su[per]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/su%5Bper%5D.png "su[per]") ![[par]ticulari[bus]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bpar%5Dticulari%5Bbus%5D.png "[par]ticulari[bus]")| su[per]  [par]ticulari[bus]  | |
-| ![[pro]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bpro%5D.png "[pro]") | [pro] | ![[pro]pter](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bpro%5Dpter.png "[pro]pter") | [pro]pter | |
-| ![[pri]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bpri%5D.png "[pri]") | [pri] |  ![[pri]ma](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bpri%5Dma.png "[pri]ma") | [pri]ma |
-|![[quam]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquam%5D.png "[quam]") | [quam]| ![vn[quam]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/vn%5Bquam%5D.png "vn[quam]") | vn[quam] |
-|![[quan]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquan%5D.png "[quam]") | [quan] | ![[quan]tum](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquan%5Dtum.png "[quan]tum") | [quan]tum | |
-| ![[que]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bque%5D-1.png "[[que]]") <br/>  ![[que]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bque%5D-2.png "[[que]]") <br/>   ![[que]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bque%5D-3.png "[[que]]")  | [que] | ![quo[que]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/quo%5Bque%5D.png "[quo[que]") ![Herculeae[que]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/Herculeae%5Bque%5D.png "[Herculeae[que]")  ![quos[que]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/quos%5Bque%5D.png "quos[que]") | quo[que] Herculeae[que] quos[que] | |
-| ![[qui]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bqui%5D.png "[qui]") | [qui] | ![[qui]b[us]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bqui%5Db%5Bus%5D.png "[qui]b[us]") | [qui]b[us] | |
-| ![[quia]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquia%5D.png "[quia]") | [quia] |  | | |
-| ![[quo]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquo%5D.png "[quo]") | [quo] | | | |
-| ![[quod]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquod%5D.png "[quod]") <br/> ![[quod]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquod%5D-2.png "[quod]") | [quod] | | | |
-| ![[recta]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Brecta%5D.png "[recta]") | [recta] | | | |
-| ![[rum]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Brum%5D-1.png "[rum]") <br/> ![[rum]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Brum%5D-2.png "[rum]") | [rum] | ![quo[rum]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/quo%5Brum%5D.png "quo[rum]") ![libro[rum]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/libro%5Brum%5D.png "libro[rum]") | quo[rum] libro[rum] |  |
-| ![[scilicet]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bscilicet%5D.png "[scilicet]") | [scilicet] | | | |
-| ![[sed]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bsed%5D.png "[sed]") | [sed] | | | |
-| ![[th]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bth%5D.png "[th]") | [th] | ![[the]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bthe%5D.png "[the]") <br/> ![[that]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bthat%5D.png "[that]")| [the]<br/> [that] | When **y** is used to represent the Old English / Icelandic character **þ** [thorn], enclose **th** plus additional letters in square brackets. |
-| ![[ur]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bur%5D.png "[ur]") | [ur] | ![nascunt[ur]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/nascunt%5Bur%5D.png "nascunt[ur]") | nascunt[ur] | |
-| ![[us] or [bus]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bus%5D.png "[us] or [bus]") | [us]<br/> [bus] | ![reb[us]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/reb%5Bus%5D.png "reb[us]") <br/> ![[par]ticulari[bus]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bpar%5Dticulari%5Bbus%5D.png "[par]ticulari[bus]") | reb[us] <br/> [par]ticulari[bus] | Superscript; a similar character at baseline represents "[con]" |
-| ![[ver]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bver%5D.png "[ver]") | [ver] | ![[ver]tuoso](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bver%5Dtuoso.png "[ver]tuoso") | [ver]tuoso | |
+<table>
+  <thead>
+    <tr>
+      <th>Brevigraphs</th>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Source</td>
+      <td>Transcription</td>
+      <td>Example</td>
+      <td>Transcription of example</td>
+      <td>Notes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/Brevigraph-1.png" alt="Brevigraph" title="Brevigraph" /></td>
+      <td>[missing letter(s)]</td>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/Co%5Bn%5Dsummatu%5Bm%5D.png" alt="Co[n]summatu[m]" title="co[n]summatu[m]" />  <img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/D%5Bomi%5Dn%5Bu%5Ds.png" alt="D[omi]n[u]s" title="D[omi]n[u]s" /></td>
+      <td>co[n]summatu[m] D[omi]n[u]s</td>
+      <td>Over a vowel, usually <strong>n</strong> or <strong>m</strong>; over a consonant, often replaces several letters</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bae%5D.png" alt="ae" title="[ae]" /></td>
+      <td>[ae]</td>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/h%5Bae%5Dc.png" alt="h[ae]c" title="h[ae]c" /></td>
+      <td>h[ae]c</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5BChristus%5D.png" alt="Christus" title="Christus" /></td>
+      <td>[Christus]</td>
+      <td> </td>
+      <td> </td>
+      <td>A contraction using both Greek and Latin letters</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bcon%5D.png" alt="con" title="con" /></td>
+      <td>[con]</td>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bcon%5Dcor%5Bdi%5Da.png" alt="[con]cor[di]a" title="[con]cor[di]a" /></td>
+      <td>[con]cor[di]a</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/brevigraph-2.png" alt="Brevigraph" title="Brevigraph" /> <br /> <img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/brevigraph-3.png" alt="Brevigraph" title="Brevigraph" /></td>
+      <td>[es]<br /> [ius]<br />[m]<br /> [us]</td>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/statut%5Bes%5D.png" alt="statut[es]" title="statut[es]" /> <br />   <img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/Ross%5Bes%5D.png" alt="Ross[es]" title="Ross[es]" /> <br />   <img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/cu%5Bius%5D.png" alt="cu[ius]" title="cu[ius]" /> <br />  <img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/impressu%5Bm%5D.png" alt="impressu[m]" title="impressu[m]" />   <img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ei%5Bus%5D.png" alt="ei[us]" title="ei[us]" /></td>
+      <td>statut[es]<br /> Ross[es]<br /> cu[ius]<br /> impressu[m]<br /> ei[us]</td>
+      <td>A highly versatile symbol; see also, for example, “[habet],” “[que],” “[scilicet],” and “[sed]” below</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bhabet%5D.png" alt="habet" title="habet" /></td>
+      <td>[habet]</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bhoc%5D.png" alt="[hoc]" title="habet" /></td>
+      <td>[hoc]</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/brevigraph-4.png" alt="Brevigraph" title="Brevigraph" /></td>
+      <td>[per]<br /> [par]</td>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/su%5Bper%5D.png" alt="su[per]" title="su[per]" /> <img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bpar%5Dticulari%5Bbus%5D.png" alt="[par]ticulari[bus]" title="[par]ticulari[bus]" /></td>
+      <td>su[per]  [par]ticulari[bus]</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bpro%5D.png" alt="[pro]" title="[pro]" /></td>
+      <td>[pro]</td>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bpro%5Dpter.png" alt="[pro]pter" title="[pro]pter" /></td>
+      <td>[pro]pter</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bpri%5D.png" alt="[pri]" title="[pri]" /></td>
+      <td>[pri]</td>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bpri%5Dma.png" alt="[pri]ma" title="[pri]ma" /></td>
+      <td>[pri]ma</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquam%5D.png" alt="[quam]" title="[quam]" /></td>
+      <td>[quam]</td>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/vn%5Bquam%5D.png" alt="vn[quam]" title="vn[quam]" /></td>
+      <td>vn[quam]</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquan%5D.png" alt="[quan]" title="[quam]" /></td>
+      <td>[quan]</td>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquan%5Dtum.png" alt="[quan]tum" title="[quan]tum" /></td>
+      <td>[quan]tum</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bque%5D-1.png" alt="[que]" title="[[que]]" /> <br />  <img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bque%5D-2.png" alt="[que]" title="[[que]]" /> <br />   <img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bque%5D-3.png" alt="[que]" title="[[que]]" /></td>
+      <td>[que]</td>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/quo%5Bque%5D.png" alt="quo[que]" title="[quo[que]" /> <img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/Herculeae%5Bque%5D.png" alt="Herculeae[que]" title="[Herculeae[que]" />  <img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/quos%5Bque%5D.png" alt="quos[que]" title="quos[que]" /></td>
+      <td>quo[que] Herculeae[que] quos[que]</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bqui%5D.png" alt="[qui]" title="[qui]" /></td>
+      <td>[qui]</td>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bqui%5Db%5Bus%5D.png" alt="[qui]b[us]" title="[qui]b[us]" /></td>
+      <td>[qui]b[us]</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquia%5D.png" alt="[quia]" title="[quia]" /></td>
+      <td>[quia]</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquo%5D.png" alt="[quo]" title="[quo]" /></td>
+      <td>[quo]</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquod%5D.png" alt="[quod]" title="[quod]" /> <br /> <img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquod%5D-2.png" alt="[quod]" title="[quod]" /></td>
+      <td>[quod]</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Brecta%5D.png" alt="[recta]" title="[recta]" /></td>
+      <td>[recta]</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Brum%5D-1.png" alt="[rum]" title="[rum]" /> <br /> <img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Brum%5D-2.png" alt="[rum]" title="[rum]" /></td>
+      <td>[rum]</td>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/quo%5Brum%5D.png" alt="quo[rum]" title="quo[rum]" /> <img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/libro%5Brum%5D.png" alt="libro[rum]" title="libro[rum]" /></td>
+      <td>quo[rum] libro[rum]</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bscilicet%5D.png" alt="[scilicet]" title="[scilicet]" /></td>
+      <td>[scilicet]</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bsed%5D.png" alt="[sed]" title="[sed]" /></td>
+      <td>[sed]</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bth%5D.png" alt="[th]" title="[th]" /></td>
+      <td>[th]</td>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bthe%5D.png" alt="[the]" title="[the]" /> <br /> <img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bthat%5D.png" alt="[that]" title="[that]" /></td>
+      <td>[the]<br /> [that]</td>
+      <td>When <strong>y</strong> is used to represent the Old English / Icelandic character <strong>þ</strong> [thorn], enclose <strong>th</strong> plus additional letters in square brackets.</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bur%5D.png" alt="[ur]" title="[ur]" /></td>
+      <td>[ur]</td>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/nascunt%5Bur%5D.png" alt="nascunt[ur]" title="nascunt[ur]" /></td>
+      <td>nascunt[ur]</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bus%5D.png" alt="[us] or [bus]" title="[us] or [bus]" /></td>
+      <td>[us]<br /> [bus]</td>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/reb%5Bus%5D.png" alt="reb[us]" title="reb[us]" /> <br /> <img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bpar%5Dticulari%5Bbus%5D.png" alt="[par]ticulari[bus]" title="[par]ticulari[bus]" /></td>
+      <td>reb[us] <br /> [par]ticulari[bus]</td>
+      <td>Superscript; a similar character at baseline represents “[con]”</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bver%5D.png" alt="[ver]" title="[ver]" /></td>
+      <td>[ver]</td>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bver%5Dtuoso.png" alt="[ver]tuoso" title="[ver]tuoso" /></td>
+      <td>[ver]tuoso</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
 
 <a name="0.4.16.2">0.4.16.2</a> Make an explanatory note if considered important.
 
@@ -150,22 +915,65 @@ Establish the pattern of usage by examining text in the same typeface or writing
 
 **Converting uppercase letterforms**
 
-| Uppercase letterform to be converted | Lowercase conversion |
-| --- | ---| --- |
-| I (vowel or consonant) anywhere in word | i | 
-| II at end of word | ij | 
-| II elsewhere in word | ii |
-| V (vowel or consonant) at beginning of word | v |
-| V (vowel or consonant) elsewhere in word	| u |
+<table>
+  <thead>
+    <tr>
+      <th>Uppercase letterform to be converted</th>
+      <th>Lowercase conversion</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>I (vowel or consonant) anywhere in word</td>
+      <td>i</td>
+    </tr>
+    <tr>
+      <td>II at end of word</td>
+      <td>ij</td>
+    </tr>
+    <tr>
+      <td>II elsewhere in word</td>
+      <td>ii</td>
+    </tr>
+    <tr>
+      <td>V (vowel or consonant) at beginning of word</td>
+      <td>v</td>
+    </tr>
+    <tr>
+      <td>V (vowel or consonant) elsewhere in word</td>
+      <td>u</td>
+    </tr>
+  </tbody>
+</table>
 
 **Converting lowercase letterforms**
 
-| Lowercase letterform to be converted | Uppercase conversion |
-| --- | ---| --- |
-| i (vowel or consonant) anywhere in word | I | 
-| j (vowel or consonant) anywhere in word | I | 
-| u (vowel or consonant) anywhere in word | V |
-| v (vowel or consonant) anywhere in word | V |
+<table>
+  <thead>
+    <tr>
+      <th>Lowercase letterform to be converted</th>
+      <th>Uppercase conversion</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>i (vowel or consonant) anywhere in word</td>
+      <td>I</td>
+    </tr>
+    <tr>
+      <td>j (vowel or consonant) anywhere in word</td>
+      <td>I</td>
+    </tr>
+    <tr>
+      <td>u (vowel or consonant) anywhere in word</td>
+      <td>V</td>
+    </tr>
+    <tr>
+      <td>v (vowel or consonant) anywhere in word</td>
+      <td>V</td>
+    </tr>
+  </tbody>
+</table>
 
 <a name="0.4.23.3">0.4.23.3</a> If any letterform within the first five words of the [Title proper](/DCRMR/title/Title-proper/) has been converted from I to j, from j to I, from V to u, or from u to V (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) using alternative forms of the [Title proper](/DCRMR/title/Title-proper/) as needed (see [1.25.3515.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3515.1)).
 
@@ -692,12 +1500,42 @@ If considered important, record a [Variant title of manifestation](/DCRMR/title/
 
 Make an explanatory note if considered important.
 
-| Forms of W|
-| --- | --- | --- | --- |
-| **Source** | **Transcription** | **Example** | **Transcription of example** |
-| ![V V](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_V_V.png) | w | ![vvhole](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_VVhole.png) | whole |
-| ![VV](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_VV.png) | w | ![whole](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_WHOLE.png) | whole |
-| ![rv](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_rv.png) | w | ![weysse](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_weysse.png) | weysse |
+<table>
+  <thead>
+    <tr>
+      <th>Forms of W</th>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Source</strong></td>
+      <td><strong>Transcription</strong></td>
+      <td><strong>Example</strong></td>
+      <td><strong>Transcription of example</strong></td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_V_V.png" alt="V V" /></td>
+      <td>w</td>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_VVhole.png" alt="vvhole" /></td>
+      <td>whole</td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_VV.png" alt="VV" /></td>
+      <td>w</td>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_WHOLE.png" alt="whole" /></td>
+      <td>whole</td>
+    </tr>
+    <tr>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_rv.png" alt="rv" /></td>
+      <td>w</td>
+      <td><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_weysse.png" alt="weysse" /></td>
+      <td>weysse</td>
+    </tr>
+  </tbody>
+</table>
 
 <a name="0.4.74.3">0.4.74.3</a> If the characters used to approximate a different character occur in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title with the characters transcribed as set (see [1.25.356.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.356.1)).
 
